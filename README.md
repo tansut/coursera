@@ -1,1 +1,1 @@
-# coursera
+# coursera resources and programming assignments
